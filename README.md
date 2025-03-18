@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML,CSS,MYSQL**
 
-- 📫 How to reach me **jostonmovindsouza@student.sfit.ac.in**
+- 📫 How to reach me **jostonmovin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
